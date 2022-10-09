@@ -6,4 +6,6 @@ https://colab.research.google.com/
 * secont, open this [colab](https://colab.research.google.com/)
 * third, import this [ipynb](StableDiffusionUI_(adapted_to_NovelAILeaks).ipynb)檔
 * final, run all and wait the public url came out.
+
+
 ![colab](colab-tutorial.png)
