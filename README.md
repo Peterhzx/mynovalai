@@ -1,3 +1,4 @@
+English | [繁體中文](README_TCH.md)
 # novelai-colab-ver
 https://colab.research.google.com/
 ## 使用教學
