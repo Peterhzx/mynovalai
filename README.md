@@ -1,9 +1,9 @@
 English | [繁體中文](README_TCH.md)
 # novelai-colab-ver
 https://colab.research.google.com/
-## 使用教學
-* 第一步你需要一個 google 帳號
-* 第二步你需要打開 [colab](https://colab.research.google.com/)
-* 第三步導入這個[ipynb](StableDiffusionUI_(adapted_to_NovelAILeaks).ipynb)檔
-* 最後照下圖做
+## How to use
+* First, you need a google account
+* secont, open this [colab](https://colab.research.google.com/)
+* third, import this [ipynb](StableDiffusionUI_(adapted_to_NovelAILeaks).ipynb)檔
+* final, run all and wait the public url came out.
 ![colab](colab-tutorial.png)
