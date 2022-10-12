@@ -1,6 +1,6 @@
 English | [繁體中文](README_TCH.md)
 # novelai-colab-ver
-https://colab.research.google.com/
+[Google colab](https://colab.research.google.com/)
 ## How to use
 * First, you need a google account
 * secont, open this [colab](https://colab.research.google.com/)
