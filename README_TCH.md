@@ -1,4 +1,7 @@
 [English]((README.md)) | 繁體中文
+# Recommend : [4 Chan ver](4chan_ver)
+You can use this version to experience how novelai official works.
+
 # Update更新
 * 更新 4chan 版 colab 根據 [4chan的討論串](https://boards.4channel.org/g/thread/89095460#p89097704) 製作。 你可以在 [這](4chan_ver) 獲得。
 
