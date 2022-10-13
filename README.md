@@ -1,5 +1,5 @@
 English | [繁體中文](README_TCH.md)
-# Recommend : [4 Chan ver](4chan_ver)
+# Recommend : [4Chan ver](4chan_ver)
 You can use this version to experience how novelai official works.
 
 # Update
