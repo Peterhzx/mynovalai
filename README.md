@@ -1,6 +1,6 @@
 English | [繁體中文](README_TCH.md)
 # Update
-* updated 4chan ver colab based on [src](https://boards.4channel.org/g/thread/89095460#p89097704)
+* updated 4chan ver colab based on [src](https://boards.4channel.org/g/thread/89095460#p89097704). You can get [here](4chan_ver)
 # novelai-colab-ver
 [Google colab](https://colab.research.google.com/)
 ## How to use
