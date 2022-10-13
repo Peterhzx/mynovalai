@@ -2,7 +2,7 @@
 # Update更新
 * 更新 4chan 版 colab 根據 [4chan的討論串](https://boards.4channel.org/g/thread/89095460#p89097704) 製作。 你可以在 [這](4chan_ver) 獲得。
 
-# 類別
+# Genre類別
 * [Webui](webui-ver)
 * [4Chan](4chan_ver)
 
