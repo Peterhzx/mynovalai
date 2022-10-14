@@ -20,7 +20,7 @@
 [Google colab](https://colab.research.google.com/)
 
 # novelai webui 版本教學
-可以透過下方圖片在 youtube 看到我的教學。
+可以透過下方圖片在 [youtube](https://www.youtube.com/watch?v=yPnEWe94xIw) 看到我的[教學](https://www.youtube.com/watch?v=yPnEWe94xIw)。
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=yPnEWe94xIw" target="_blank">
  <img src="http://img.youtube.com/vi/yPnEWe94xIw/mqdefault.jpg" alt="Watch the video"/>
