@@ -6,7 +6,7 @@ You can use this version to experience how novelai official works.
 * updated 4chan ver colab based on [src](https://boards.4channel.org/g/thread/89095460#p89097704). You can get [here](4chan_ver).
 
 # novelai 4chan ver tutorial
-You can see tutorial on youtube by clicking img below
+You can see tutorial on [youtube](https://www.youtube.com/watch?v=7DWMz_fMsAo) by clicking img below
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7DWMz_fMsAo" target="_blank">
  <img src="http://img.youtube.com/vi/7DWMz_fMsAo/mqdefault.jpg" alt="Watch the video"/>
