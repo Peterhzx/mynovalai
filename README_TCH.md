@@ -5,12 +5,28 @@
 # Update更新
 * 更新 4chan 版 colab 根據 [4chan的討論串](https://boards.4channel.org/g/thread/89095460#p89097704) 製作。 你可以在 [這](4chan_ver) 獲得。
 
+# novelai 4chan 版本教學
+可以透過下方圖片在 youtube 看到我的教學。
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7DWMz_fMsAo" target="_blank">
+ <img src="http://img.youtube.com/vi/7DWMz_fMsAo/mqdefault.jpg" alt="Watch the video"/>
+</a>
+
 # Genre類別
 * [Webui](webui-ver)
 * [4Chan](4chan_ver)
 
 # novelai-colab-ver
 [Google colab](https://colab.research.google.com/)
+
+# novelai webui 版本教學
+可以透過下方圖片在 youtube 看到我的教學。
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yPnEWe94xIw" target="_blank">
+ <img src="http://img.youtube.com/vi/yPnEWe94xIw/mqdefault.jpg" alt="Watch the video"/>
+</a>
+
+
 ## 使用教學
 * 第一步你需要一個 google 帳號
 * 第二步你需要打開 [colab](https://colab.research.google.com/)
