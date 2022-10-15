@@ -1,6 +1,8 @@
 English | [繁體中文](README_TCH.md)
 # Recommend : [4Chan ver](4chan_ver)
 You can use this version to experience how novelai official works.
+## [4chan local low vram fixed](https://github.com/JingShing/NovelAI-4chan-lowvram-ver)
+You can use less vram(less than 8g) to install 4chan at local.
 
 # Update
 * updated 4chan ver colab based on [src](https://boards.4channel.org/g/thread/89095460#p89097704). You can get [here](4chan_ver).
